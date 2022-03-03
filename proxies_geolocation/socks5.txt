@@ -1,0 +1,53 @@
+91.237.84.227:13034::Poland::Silesia::Jaworzno
+5.196.224.66:5005::France::Grand Est::Strasbourg
+51.222.12.245:10084::Canada::Quebec::Beauharnois
+34.134.60.185:443::United States::Iowa::Council Bluffs
+68.71.249.153:48606::United States::California::Los Angeles
+198.8.94.174:39078::United States::Georgia::Atlanta
+192.111.129.145:16894::United States::Georgia::Atlanta
+192.252.214.20:15864::United States::Georgia::Atlanta
+67.201.33.10:25283::United States::California::Buena Park
+192.252.208.67:14287::United States::Georgia::Atlanta
+72.223.168.73:57494::United States::Oklahoma::Oklahoma City
+98.162.25.4:31654::United States::Oklahoma::Oklahoma City
+70.166.167.36:4145::United States::Arizona::Queen Creek
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+72.206.181.123:4145::United States::Oklahoma::Oklahoma City
+98.162.25.29:31679::United States::Oklahoma::Oklahoma City
+72.195.34.41:4145::United States::Oklahoma::Oklahoma City
+72.221.196.145:4145::United States::Oklahoma::Oklahoma City
+192.252.220.92:17328::United States::California::Los Angeles
+98.162.25.7:31653::United States::Oklahoma::Oklahoma City
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+184.178.172.18:15280::United States::Virginia::Roanoke
+70.166.167.38:57728::United States::Arizona::Queen Creek
+72.206.181.97:64943::United States::Oklahoma::Oklahoma City
+98.175.31.195:4145::United States::Virginia::Norfolk
+174.75.211.222:4145::United States::Oklahoma::Oklahoma City
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
+184.178.172.14:4145::United States::Virginia::Roanoke
+184.179.216.130:4145::United States::Oklahoma::Oklahoma City
+72.195.34.60:27391::United States::Oklahoma::Oklahoma City
+72.223.168.86:57481::United States::Oklahoma::Oklahoma City
+72.206.181.105:64935::United States::Oklahoma::Oklahoma City
+192.111.135.18:18301::United States::Georgia::Atlanta
+198.8.94.170:39074::United States::Georgia::Atlanta
+98.162.25.23:4145::United States::Oklahoma::Oklahoma City
+72.210.252.134:46164::United States::Oklahoma::Oklahoma City
+184.178.172.28:15294::United States::Virginia::Roanoke
+184.178.172.13:15311::United States::Virginia::Roanoke
+204.101.61.81:4145::Canada::Quebec::Boisbriand
+72.221.196.157:35904::United States::Oklahoma::Oklahoma City
+69.61.200.104:36181::United States::Ohio::Cincinnati
+208.102.51.6:58208::United States::Kentucky::Alexandria
+174.77.111.196:4145::United States::Rhode Island::Cranston
+72.217.216.239:4145::United States::Oklahoma::Oklahoma City
+66.42.224.229:41679::United States::Ohio::Hamilton
+72.49.49.11:31034::United States::Ohio::Cincinnati
+98.171.154.23:4145::United States::Oklahoma::Oklahoma City
+72.223.168.67:4145::United States::Oklahoma::Oklahoma City
+72.195.114.169:4145::United States::Oklahoma::Oklahoma City
+81.177.142.19:1080::Russia::Moscow::Moscow
+47.242.168.35:9090::Hong Kong::Central and Western District::Hong Kong
+8.218.105.61:1080::Hong Kong::Central and Western District::Central

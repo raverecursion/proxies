@@ -1,0 +1,11 @@
+65.21.3.120:80::Finland::Uusimaa::Helsinki
+195.168.98.98:8000::Slovakia::Nitra::Levice
+5.153.234.91:3128::Sweden::Stockholm County::Stockholm
+161.97.84.211:10080::Germany::Bavaria::Nuremberg
+45.130.15.216:8080::Turkey::Istanbul::Istanbul
+165.16.66.89:8080::Libya::Tripoli::Tripoli
+8.214.41.50:80::Singapore::None::Singapore
+189.148.189.177:999::Mexico::Tabasco::Nacajuca
+101.99.31.69:3128::Vietnam::Hanoi::Hanoi
+223.112.146.106:9797::None::None::None
+94.228.207.86:8087::Russia::Moscow::Moscow
