@@ -1,34 +1,70 @@
-45.130.15.216:8080::Turkey::Istanbul::Istanbul
-95.216.194.46:1081::France::Occitanie::Segoufielle
+51.83.231.87:3128::Poland::Mazovia::Warsaw
+51.83.230.123:3128::Poland::Mazovia::Warsaw
+51.83.233.111:3128::Poland::Mazovia::Warsaw
+51.83.231.20:3128::Poland::Mazovia::Warsaw
+54.38.63.142:3128::Poland::Mazovia::Warsaw
+51.83.231.21:3128::Poland::Mazovia::Warsaw
+54.38.51.128:3128::Poland::Mazovia::Warsaw
+54.38.51.130:3128::Poland::Mazovia::Warsaw
+51.83.241.111:3128::Poland::Mazovia::Warsaw
+51.83.230.93:3128::Poland::Mazovia::Warsaw
+51.83.155.75:3128::Poland::Mazovia::Warsaw
+51.83.234.15:3128::Poland::Mazovia::Warsaw
+51.83.233.110:3128::Poland::Mazovia::Warsaw
+51.83.234.13:3128::Poland::Mazovia::Warsaw
+54.38.63.140:3128::Poland::Mazovia::Warsaw
+51.77.61.152:3128::Poland::Mazovia::Warsaw
+95.216.194.46:1080::Portugal::Porto::Valongo
+54.38.51.133:3128::Poland::Mazovia::Warsaw
+8.214.41.50:80::Singapore::None::Singapore
+51.83.155.91:3128::Poland::Mazovia::Warsaw
 183.220.195.163:80::China::Beijing::Jinrongjie
-181.115.67.3:999::Honduras::Departamento de Cortes::Cortes
-165.22.60.129:34311::India::Maharashtra::Pune
-14.54.27.37:4001::South Korea::Seoul::Seoul
-203.114.65.40:1337::Philippines::Metro Manila::Pasay
-45.175.239.254:999::Mexico::Hidalgo::Actopan
-101.53.158.48:9200::United States::California::San Diego
-132.255.210.115:999::El Salvador::Departamento de La Union::Santa Rosa de Lima
-190.110.99.104:999::Chile::Santiago Metropolitan::Las Condes
-45.188.105.53:8083::Brazil::Goias::Luziania
+222.162.121.224:7890::China::Jilin::Yanji
+45.229.34.101:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+200.111.22.67:999::Chile::Los Ríos Region::Panguipulli
+51.77.35.132:3128::Poland::Mazovia::Warsaw
+202.93.229.195:3128::Indonesia::West Java::Bandung
+51.75.35.220:3128::Poland::Mazovia::Warsaw
+79.110.137.17:7777::Ukraine::Kyiv City::Kyiv
+103.155.156.10:8080::Indonesia::West Java::Bandung
 93.180.221.205:8080::Iraq::Baghdad::Baghdad
-45.160.74.1:999::Chile::Santiago Metropolitan::Santiago
-138.117.85.121:8080::Colombia::Departamento del Huila::Pitalito
-103.143.195.65:1080::Indonesia::North Sumatra::Medan
-85.25.91.155:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
-190.110.99.99:999::Chile::Santiago Metropolitan::Las Condes
-181.114.224.177:8080::Argentina::Buenos Aires::Mar del Plata
-189.129.106.41:999::Mexico::Chiapas::Tuxtla Gutiérrez
-45.94.73.89:8080::Ireland::Leinster::Dublin
-190.108.85.175:999::Peru::Junin::Huancayo
-176.236.232.65:9090::Turkey::Istanbul::Istanbul
-223.112.146.106:9999::Hong Kong::Central and Western District::Hong Kong
-85.25.150.32:5566::Germany::North Rhine-Westphalia::Bonn
-168.90.15.177:999::Colombia::Cundinamarca::Villa de San Diego de Ubate
-217.113.19.196:81::Armenia::Yerevan::Yerevan
-101.53.154.137:2003::Norway::Vestfold og Telemark::Sandefjord
+45.156.31.60:9090::Turkey::Istanbul::Istanbul
+200.39.63.205:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
+111.30.26.229:3130::China::Beijing::Beijing
+45.71.37.211:999::Ecuador::Provincia de Los Rios::Vinces
+180.193.216.213:8080::Philippines::Metro Manila::Mandaluyong City
+115.124.79.90:8080::Indonesia::Jakarta::Jakarta
+110.76.129.106:59570::Bangladesh::Chittagong::Feni
+101.255.127.11:8080::Indonesia::Jakarta::Jakarta
+190.110.99.100:999::Chile::Santiago Metropolitan::Las Condes
+198.59.147.147:8080::United States::Louisiana::Oak Grove
+114.240.230.242:808::China::Beijing::Beijing
+201.182.242.4:999::Ecuador::Provincia de Loja::Saraguro
+203.29.26.241:8080::Indonesia::Central Java::Krajan Gajahmati
+201.234.53.214:999::Peru::Lima::Lima
+36.90.182.32:8080::Indonesia::East Java::Gedangan
+206.62.162.125:999::Venezuela::Zulia::Maracaibo
+83.238.80.20:8081::Poland::Podlasie::Szepietowo
+138.97.200.73:8080::Argentina::Buenos Aires::San Nicolás de los Arroyos
+78.36.196.79:4033::Russia::Kaliningrad Oblast::Kaliningrad
+190.221.33.11:999::Argentina::Buenos Aires::Piguee
+190.221.33.10:999::Argentina::Buenos Aires::Piguee
+85.25.117.134:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+89.216.52.195:8080::Serbia::Belgrade::Lazarevac
+85.25.201.22:5566::Germany::North Rhine-Westphalia::Bonn
+101.255.117.123:3128::Indonesia::West Java::Bekasi
+77.46.138.233:8080::Serbia::Belgrade::Belgrade
+85.25.133.28:5566::Germany::North Rhine-Westphalia::Bonn
+85.25.108.234:5566::Germany::Land Berlin::Berlin
 103.147.77.66:5030::Indonesia::West Nusa Tenggara::Sumbawa Besar
-103.151.221.4:8080::Indonesia::West Java::Bekasi
-190.119.166.36:999::Peru::Lima::Lima
-203.142.71.50:8080::Indonesia::Jakarta::Jakarta
-45.225.123.50:45005::Brazil::Sergipe::Caninde de Sao Francisco
-186.16.206.162:999::Paraguay::Asuncion::Asunción
+200.37.240.130:999::Peru::Region de Huanuco::Huánuco
+45.7.135.238:999::Colombia::Cundinamarca::Guayabal de Síquima
+177.104.125.173:55443::Brazil::Ceara::Eusebio
+51.83.231.23:3128::Poland::Mazovia::Warsaw
+200.106.187.252:999::Argentina::Buenos Aires::Jose Maria Ezeiza
+111.92.164.242:50249::Indonesia::West Java::Bekasi
+202.75.97.82:47009::Indonesia::Jakarta::Jakarta
+170.0.87.205:999::Argentina::Misiones::Andresito
+138.117.85.121:8080::Colombia::Departamento del Huila::Pitalito
+103.247.15.57:8080::Indonesia::Central Java::Trucuk
+41.87.165.222:3128::Botswana::Gaborone::Gaborone
