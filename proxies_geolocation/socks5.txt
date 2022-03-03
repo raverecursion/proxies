@@ -22,7 +22,8 @@
 72.221.232.155:4145::United States::Oklahoma::Oklahoma City
 198.8.94.170:39074::United States::Georgia::Atlanta
 98.170.57.231:4145::United States::Oklahoma::Oklahoma City
-72.206.181.123:4145::United States::Oklahoma::Oklahoma City
+72.206.181.123:4145::United States::Okla
+oma::Oklahoma City
 98.188.47.132:4145::United States::Louisiana::Baton Rouge
 184.178.172.18:15280::United States::Virginia::Roanoke
 72.195.34.41:4145::United States::Oklahoma::Oklahoma City
